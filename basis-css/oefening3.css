@@ -1,0 +1,64 @@
+*{
+    font-family: Verdana sans-serif;
+}
+body{
+    background-image: url("");
+
+}
+h1{
+    font-size: 44px;
+}
+a{
+    color: inherit;
+    border-style: none;
+}
+a:hover{
+    color: #051D62;
+}
+img{
+    width: 250px;
+    border: 2px #000000;
+}
+header{
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+nav{
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+nav ul{
+    padding: 0;
+}
+main{
+    width: 1000px;
+    margin: 0 auto;
+}
+main section{
+    padding: 20px;
+    border: 50px;
+    border-radius: 10px;
+}
+#pukkelpop{
+    background-color: rgba(241, 84, 217, 0.5);
+}
+#rockwerchter{
+    background-color: rgba(14, 84, 181, 0.5);
+    color: #ffffff;
+}
+#tomorrowland{
+    background-color: rgba(20, 15, 8, 0.5);
+}
+#graspop{
+    background-color: rgba(20, 15, 8, 0.5);
+    color: #ffffff;
+}
+#bastionfestival{
+    background-color: rgba(242, 235, 156, 0.5);
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
