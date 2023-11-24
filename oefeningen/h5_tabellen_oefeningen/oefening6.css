@@ -1,0 +1,62 @@
+*{
+    font-family: "Courier New", monospace;
+}
+header{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 50px;
+}
+main{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 50px;
+}
+main #main_logo{
+    padding-bottom: 20px;
+}
+main #main_logo table{
+    width: 100%;
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+main #main_logo table td{
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 20px;
+}
+main #main_logo table td img{
+    width: 150px;
+}
+main #main_logo table tr:nth-child(1) td:nth-child(2){
+    background-color: #DF0024;
+}
+main #main_logo table tr:nth-child(2) td:nth-child(1){
+    background-color: #F3C300;
+}
+main #main_logo table tr:nth-child(3) td:nth-child(1){
+    background-color: #00AC9F;
+}
+main #main_logo table tr:nth-child(4) td:nth-child(1){
+    background-color: #2E6DB4;
+}
+main #main_parts img{
+    width: 100%;
+}
+main #main_parts_controller table{
+    border-collapse: collapse;
+    border: 1px solid #000;
+    width: 450px;
+    table-layout: fixed;
+}
+main #main_parts_controller table thead tr th {
+    background-color: #F3C300;
+    padding: 20px;
+    border: 1px solid #000;
+}
+main #main_parts_controller table tbody tr td{
+    padding: 5px;
+    border: 1px solid   #000;
+}
