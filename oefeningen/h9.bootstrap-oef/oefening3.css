@@ -1,0 +1,38 @@
+*{
+    font-family: 'Times New Roman', serif;
+    color: #000000;
+
+}
+
+.container-fluid {
+    background-image: url("Assets - H9 - Bootstrap/assets/hero.jpg");
+    background-repeat: no-repeat;
+    height: 400px;
+
+}
+.row-cols-3-img{
+    width: 200px;
+    height: 200px;
+    margin-top: 85px;
+    margin-left: 85px;
+
+}
+.row-3-justify-content-end{
+    color: white;
+    font-size: 30px;
+    text-align: right;
+    padding-bottom: 440px;
+    padding-right: 200px;
+
+}
+hr{
+
+}
+
+footer{
+    background-color: #E7E0D2;
+    max-width: 1920px;
+
+}
+@media (max-width: 768px) {
+}
